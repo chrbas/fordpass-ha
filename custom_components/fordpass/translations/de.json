@@ -22,10 +22,10 @@
                 } 
             },
             "vehicle": {
-                "title": "Selecteer voertuig om toe te voegen",
-                "description": "Alleen voertuigen die momenteel niet zijn toegevoegd, worden weergegeven",
+                "title": "Fahrzeug zum Hinzufügen auswählen",
+                "description": "Es werden nur Fahrzeuge angezeigt, die noch nicht hinzugefügt wurden",
                 "data": {
-                  "vin": "VIN"
+                  "vin": "FIN"
                 }
               },
               "vin": {
